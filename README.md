@@ -18,13 +18,27 @@
 # Why this Project?
 If you’ve ever wanted to build your own Active Directory lab but weren’t sure where to begin, you’re in the right place. In this article, I’ll guide you step-by-step through setting up an AD lab environment that’s perfect for learning, testing, or practicing cybersecurity skills.
 
-# Lab Requirements
-**Set up the following virtual machines using VMware Workstation:**
 
-**1 x Windows Server 2022 (Domain controller) 2 x Windows 10 Enterprise — User-machine 1 and 2 Minimum System Requirements:
+
+Disclaimer:
+This guide is intended strictly for educational and ethical purposes. All configurations and demonstrations should only be performed in a controlled, isolated lab environment that you own or have explicit permission to use. Do not attempt to replicate any part of this setup on production systems or unauthorized networks. I am not liable for any misuse of the information provided.
+
+
+
+---
+
+Lab Requirements
+Set up the following virtual machines using VMware Workstation:
+
+- 1 x Windows Server 2022 (Domain controller)
+- 2 x Windows 10 Enterprise — User-machine 1 and 2
+- 
+  - Minimum System Requirements:
+
 RAM — Minimum 16GB
-Disk Space — Minimum 60GB
-Downloading Required ISOs
+Disk Space — Minimum 60GB  
+---
+***Downloading Required ISOs***
 Download the required ISOs from the official Microsoft Evaluation Center using the links below:**
 
 Windows 10 ISO
