@@ -267,8 +267,7 @@ Now that the domain controller is set up, it’s time to move on to the user mac
 **Next, we’ll edit the virtual machine settings and remove the floppy disk from the hardware configuration.**
 ![1_vuBvrbBYQoIk9OC03X57Zg](https://github.com/user-attachments/assets/87b57c56-9f65-4357-ae2e-dc2cd4e65480)
 ![1_YnjDZnvMZ4E3iynTwmA-lQ](https://github.com/user-attachments/assets/e782dbe7-c208-49e1-a67a-485b337977c7)
-![1_h_Il1KuCDEeoLwFnhFTh9g](https://github.com/user-attachments/assets/1022fe66-b2f1-4d64-9662-69c0![1_jYY5EAgRXm7O76v4z2HlQg](https://github.com/user-attachments/assets/34f3e1c4-e8af-4141-8d25-a6be4914a95b)
-a59fca39)
+
 
 
 **You can leave the memory at 2GB, and make sure the Network Adapter is set to NAT. Once that’s done, go ahead and power on the machine.**
