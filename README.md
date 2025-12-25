@@ -65,201 +65,242 @@ Select the operating system and version. The highest server version in the list 
 <img width="640" height="631" alt="Image" src="https://github.com/user-attachments/assets/9172d8bc-4b10-480f-916f-ed9634ede3a3" />
 
 Choose a storage location for the virtual machine, then click Next.
+![1_0mZRE4JJi9w3XSRxdgq3dA](https://github.com/user-attachments/assets/212a4b8a-3f6a-4772-9467-24390ab665ce)
 
-Make sure to select a drive with at least 60 GB of free space to store your files.
+Make sure to select a drive with at least **60 GB of free space** to store your files.
+![1_UGG7Tmdl9kpW21oWcP2_Qg](https://github.com/user-attachments/assets/11b6de7c-d66d-4f2c-b104-e055cd89b210)
 
+![1_WSoqz7LL0ig3UFWR3jEkvA](https://github.com/user-attachments/assets/68256bd0-883b-41c9-a4bd-ad80618af35e)
 
 Before powering on the machine, let’s adjust the virtual machine settings.
-Press enter or click to view image in full size
+![1_QvJHfSUzrf8MnSozOeNmGg](https://github.com/user-attachments/assets/c9dcdb6d-a9dc-4a06-ab62-4e27d281d666)
+
 
 Allocate sufficient memory based on your system’s capacity. For this demonstration, I’m using 4 GB of RAM. Also, ensure the network setting is configured to NAT.
-Press enter or click to view image in full size
+
+![1_Qci_y-340sJ7nvRWxHen4w](https://github.com/user-attachments/assets/8a1f5265-4447-4fd1-a98d-5cf9ec19566a)
 
 Now power on virtual machine and quickly press any key to begin the installation.
-Press enter or click to view image in full size
+![1_3l1zVF3YXxQ0NHEY5pBiBQ](https://github.com/user-attachments/assets/c0eb1ed7-81a1-4cc0-8060-b6fca3e8d17d)
+
 
 Follow the on-screen prompts to complete the installation.
-Press enter or click to view image in full size
 
-Press enter or click to view image in full size
+![1_vV1tXVSd_QT1WEQjyQ9_QA](https://github.com/user-attachments/assets/3854f7d4-5f64-4a04-bd4c-54154f55a03d)
+![1_Erz5UsemLaieIAfGr2ukvw](https://github.com/user-attachments/assets/3cd444dc-2b14-4553-be40-2896684392d4)
+
+
 
 Select Windows Server 2022 Standard Evaluation (Desktop Experience) from the list.
-Press enter or click to view image in full size
+![1_rLRE1PTi7ejAOdlea5-NPA](https://github.com/user-attachments/assets/7b65bbe1-607c-4a0d-aa01-7b0858cb41bd)
+![1_3gn9zoSorBXSKYwhxeR2hQ](https://github.com/user-attachments/assets/41324a40-073b-4b40-b5ce-d4a8eb88edac)
 
-Press enter or click to view image in full size
 
 Click on Custom: Install.
-Press enter or click to view image in full size
+
+![1_H51NbNlr-QEh8tFuuLSK9w](https://github.com/user-attachments/assets/252b76fa-c740-453b-91f4-1ce7b7c7dfdf)
 
 Create a new drive by clicking New, then apply the changes to proceed.
-Press enter or click to view image in full size
+![1_8eDuqC3ROWh09HfGgg4Zrw](https://github.com/user-attachments/assets/047c0df1-65df-4827-ab90-e36cdedf0dba)
+![1_4dog5Ax3Lh_X6l4PJd42Kg](https://github.com/user-attachments/assets/40ea5005-3ce6-445d-bb48-532181cce25f)
+![1__9u1ywfJYtrjcRsX6nfVSQ](https://github.com/user-attachments/assets/8243c120-b393-4689-b498-9357503ce11b)
 
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
 
 The installation may take some time, so be patient.
-Press enter or click to view image in full size
+![1__91pLMBzS4I3Ydgxh5Srsw](https://github.com/user-attachments/assets/754b6f5a-aaea-4ef3-9388-71c6029c53ad)
+
 
 Allow the machine to reboot automatically. This may take a few minutes to complete the installation.
-Press enter or click to view image in full size
+![1_QUe95how9KzzrChtRsed_g](https://github.com/user-attachments/assets/200610f9-f45e-4e4f-8545-0482676a01d4)
+
 
 You’ll now be prompted to create a password for the Administrator account. For this demonstration, I’m using a weak password.
-Press enter or click to view image in full size
+![1_fi1bXPyZ4WNtFBJulXK9Wg](https://github.com/user-attachments/assets/5e4562ba-0d3a-419a-8995-bdb35a936ea5)
+
 
 Use the Send Ctrl + Alt + Del option to unlock the screen.
-Press enter or click to view image in full size
+![1_4cOK2yCmIkSzMmFryWAwkQ](https://github.com/user-attachments/assets/41233195-f580-4d72-89a4-f1e9ac5e4b4a)
+
 
 Enter the password to log in.
-Press enter or click to view image in full size
+![1_TGI3slhFhUXlo8shgDXoKg](https://github.com/user-attachments/assets/59ada65f-7f61-4c74-9df9-4a642f976a7b)
+
 
 Once logged in, the first step is to rename the computer.
-Press enter or click to view image in full size
+![1_nLQ-higRzgcN2lglDU1kUA](https://github.com/user-attachments/assets/6fa516e4-5c14-4246-a068-1887841c2939)
+
 
 Click on Rename this PC and enter your preferred name, such as HYDRA-DC.
 
-Press enter or click to view image in full size
+![1_nhFbZOxJoIJit0CgOl77og](https://github.com/user-attachments/assets/19bb66f0-9ced-4761-8b10-64131b9f58d7)
+![1_T2HfPYoFXDIYT-GnOqCcEw](https://github.com/user-attachments/assets/3c262158-454b-4ccd-8790-cc5c85fc4dbd)
+
 
 Proceed to restart the machine.
-Press enter or click to view image in full size
+![1_wHtlECaRykpg_CpadTr3rA](https://github.com/user-attachments/assets/c7e063aa-6d9d-46d4-9143-d08a98c2a586)
+
 
 Log back in. Now, to set up this system as a domain controller, start by adding Roles and Features. Click Next until you reach the Server Roles step.
-Press enter or click to view image in full size
+![1_SQjqlvBfJkdxLcSALsCGaw](https://github.com/user-attachments/assets/914dfa5b-aff7-42f8-90e8-b33d3d882670)
+
 
 Check Active Directory Domain Services and click Add Features. Then continue clicking Next to proceed.
-Press enter or click to view image in full size
+![1_YXP1DBXis2CXB5D6cBt5BA](https://github.com/user-attachments/assets/e2784600-6da6-49c9-b351-0a23336a7764)
+
 
 Check the option Restart the destination server automatically if required, then click Install.
-Press enter or click to view image in full size
+![1_YXP1DBXis2CXB5D6cBt5BA](https://github.com/user-attachments/assets/60bd3726-782d-4f78-a08b-d753e1b2169a)
+![1_oKQzBKRhJqLuDk3zfiUHSg](https://github.com/user-attachments/assets/34514833-b921-4804-82fe-658af7b27ec6)
 
-Press enter or click to view image in full size
+
+
 
 The installation will take a few minutes to complete and set up the domain controller.
-Press enter or click to view image in full size
+![1_nT8YYmISyaroWcQLuE3bHw](https://github.com/user-attachments/assets/5eb59b16-2016-49c5-ac63-875119791e62)
+
 
 After the installation completes, proceed to promote the server to a domain controller.
-Press enter or click to view image in full size
+![1_banJxdeWpUaUprKa2LUz6A](https://github.com/user-attachments/assets/9b466fdc-fc84-4fd6-9823-b6a5ee0de44b)
+
 
 Create a new forest and enter a domain name of your choice. Once done, click Next.
-Press enter or click to view image in full size
+![1_xWkUaba8ZUPoecjz4TIltg](https://github.com/user-attachments/assets/85920589-5340-4ed4-95e0-328114dfcf1d)
+
 
 Set and confirm a password for Directory Services Restore Mode, then continue clicking Next until you reach the Prerequisites Check section.
-Press enter or click to view image in full size
+![1_SGtkWXK9TnpSihx5uHMg0A](https://github.com/user-attachments/assets/e216b32f-97fb-4ee7-bbba-c6305af001ca)
+
 
 Wait for the prerequisite check to complete, then click Install to proceed.
-Press enter or click to view image in full size
+![1_6OEJSJLml4lTzsSwcbwYKg](https://github.com/user-attachments/assets/8f158a22-999b-41ce-b2aa-0867b24d4ed0)
+![1_aKwAydusVKmLdnuObJVgfw](https://github.com/user-attachments/assets/638e74fa-a703-4574-9dd9-2aeecec74ced)
 
-Press enter or click to view image in full size
 
 The installation will begin and prompt a reboot once finished. Click Close and the system will restart automatically and return to the login screen.
-Press enter or click to view image in full size
+![1_HD-36puazu633CCDyvwtdg](https://github.com/user-attachments/assets/e08622fe-25f1-4392-8d60-502f31abd6f5)
+![1_lnq37tk7ZOut1hUyaDrjlg](https://github.com/user-attachments/assets/e45eb642-ad5b-44bc-a40a-5ead0bceb853)
 
-Press enter or click to view image in full size
 
 We can now see that the login is being performed as MARVEL\Administrator.
-Press enter or click to view image in full size
+![1_sNkGTvudtnrIWNYMq9Qfgg](https://github.com/user-attachments/assets/5b46dac2-55c2-44c5-9524-1c488dd9e32b)
 
 Next, we need to set up Active Directory Certificate Services (AD CS), which will allow us to perform certain attacks later. Open Add Roles and Features again and click Next to continue.
-Press enter or click to view image in full size
+![1_gmr1kV8XsspC_4hM-xDnJg](https://github.com/user-attachments/assets/eaa35fc0-41d6-4da1-8dc0-d7b3f15601e7)
 
 Select Active Directory Certificate Services. In simple terms, Certificate Services are used to validate identities within a domain environment.
-Press enter or click to view image in full size
+![1_rSt99kibjkK3s5j4Uv980w](https://github.com/user-attachments/assets/0e5e6108-5fac-4a45-8128-2a71867beeba)
 
 Keep clicking Next to proceed through the setup.
-Press enter or click to view image in full size
+![1_kMe_NpvbfEsW9xGFPYhmYA](https://github.com/user-attachments/assets/ad1795f1-9cc3-4783-919f-8b7f59d2f6be)
+![1_Dmpbj7gUAWiT6kKyLqf1VQ](https://github.com/user-attachments/assets/22f2ab74-23b6-4281-aef2-edb907c6bb2f)
 
-Press enter or click to view image in full size
 
 Ensure that Certification Authority is selected before continuing.
-Press enter or click to view image in full size
+![1_yBJnsNBg7wFMrHVas4hcjw](https://github.com/user-attachments/assets/483af5a7-54ab-4e93-a591-af334fa11623)
 
 Select Restart destination server automatically if required, then click Install to begin the setup.
-Press enter or click to view image in full size
+![1_6NGOegleIa9g3tJ66zqgwg](https://github.com/user-attachments/assets/efb99038-680e-4609-b0fd-e2671415b808)
 
 Once the installation is complete, proceed to configure AD CS on the destination server.
-Press enter or click to view image in full size
+![1_w1Bym_6YGqt4tIVeB74ZwQ](https://github.com/user-attachments/assets/404fe580-c48d-4aa2-94cf-3812c9e51629)
+![1_e3gB4F6X9_Rxj_OlkmPEIQ](https://github.com/user-attachments/assets/882c2ccd-7c5f-440c-b0f9-a3819bcccd89)
 
-Press enter or click to view image in full size
 
-Ensure that Certification Authority is checked, then continue clicking Next to move through the configuration steps.
-Press enter or click to view image in full size
+**Ensure that Certification Authority is checked, then continue clicking Next to move through the configuration steps.**
+
+![1_otsKJqrhdZ-TBelw1FgZWA](https://github.com/user-attachments/assets/92e894f7-40e1-4ca9-8739-4ddb033597aa)
 
 On the Cryptography settings page, leaving SHA256 as the default is perfectly fine.
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
-
-For the validity period, set it to 99 years in case you plan to keep this lab environment running long term.
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
-
-That’s it for this section. Go ahead and reboot your server so we can move on to setting up the user machines.
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
-
-Setting up the User Machines
-Now that the domain controller is set up, it’s time to move on to the user machines. To conserve RAM, go ahead and shut down the domain controller for now.
-We’ll be building two user machines in this next step.
-
-Press enter or click to view image in full size
+![1_ppe3U_6zX77wqcEZOejuJA](https://github.com/user-attachments/assets/a6f0e12c-f7ff-41c1-baf4-0543aa3f0bb5)
+![1_vcQ6F9xEoh0ujSn2CP9SsQ](https://github.com/user-attachments/assets/77ae363f-f574-4319-a699-bc6865047f1c)
 
 
-Go ahead and select the Windows ISO, then click Next to continue.
+**For the validity period, set it to 99 years in case you plan to keep this lab environment running long term.**
+![1_sK5hZ3XBXyRTKcPDtLMJdQ](https://github.com/user-attachments/assets/d9f54fe9-c96e-4186-ba60-0677984f908e)
+![1_Lr0iyoobxiXg5TUbbCFA_Q](https://github.com/user-attachments/assets/5e5798ef-936b-41b3-8eb3-2aa0289f8405)
 
-Skip the product key step, and make sure to select Windows 10 Enterprise as the version.
+
+**That’s it for this section. Go ahead and reboot your server so we can move on to setting up the user machines.**
+![1_9DUWeLLtVtpvgQ5lcomxoQ](https://github.com/user-attachments/assets/ca339f52-c1ce-4af0-ac8e-5db93a2fea90)
+![1_XRRMP3CyIW3L2wH5XxDPmQ](https://github.com/user-attachments/assets/e999b81a-f260-4a3e-99c7-7ed21e16872f)
 
 
-Give your virtual machine a name, feel free to use any name you prefer.
+**Setting up the User Machines
+Now that the domain controller is set up, it’s time to move on to the user machines. To conserve RAM, go ahead and shut down the domain controller for now.**
+**We’ll be building two user machines in this next step.**
+![1_C5harl5vdVCmF1iVVHuPyg](https://github.com/user-attachments/assets/2031f543-133c-4335-bf3e-32abd12e52ab)
+![1_kDBnrcn2ly-VjELq5JvQ5g](https://github.com/user-attachments/assets/04944411-41ff-4a92-873b-0c69b24fb827)
 
 
 
-Next, we’ll edit the virtual machine settings and remove the floppy disk from the hardware configuration.
-Press enter or click to view image in full size
+**Go ahead and select the Windows ISO, then click Next to continue.**
+![1_lGlfxafywjxhccw0yZFXQQ](https://github.com/user-attachments/assets/f901bccd-eebc-402c-a11c-496a40c327ea)
 
 
-You can leave the memory at 2GB, and make sure the Network Adapter is set to NAT. Once that’s done, go ahead and power on the machine.
-Press enter or click to view image in full size
+**Skip the product key step, and make sure to select Windows 10 Enterprise as the version.**
+![1_Ck__ajKX6cofyna7GuxiRw](https://github.com/user-attachments/assets/c9769404-dcb6-459d-91e2-8660983a424c)
+![1_8o7sqZAOhgOm0VmZvB5ehw](https://github.com/user-attachments/assets/36ea8eef-44ee-4e39-8dea-de7c37b10e4a)
 
-Press enter or click to view image in full size
 
-Press enter or click to view image in full size
+**Give your virtual machine a name, feel free to use any name you prefer.**
+![1_hESGfTV5kv1mWFcJUY8kYQ](https://github.com/user-attachments/assets/326c83d6-a70c-4e39-9d04-92fb9f5863fb)
+![1_9o3dmFyos70cqXPP6Q-O-w](https://github.com/user-attachments/assets/cbb8d703-a7bd-4eb9-8002-091914c3a9e8)
+![1_tpKHTZlEiIWelo5GXqCxwA](https://github.com/user-attachments/assets/7dd29f46-9f94-4249-91f4-58cddc3c3703)
 
-Follow the installation prompts just like you did for Windows Server 2022. This part should be quicker, as it’s mostly a repetition of earlier steps. Let the machine reboot automatically when prompted.
-Press enter or click to view image in full size
 
-Press enter or click to view image in full size
 
-When prompted, go ahead and skip the keyboard layout selection.
-Press enter or click to view image in full size
+**Next, we’ll edit the virtual machine settings and remove the floppy disk from the hardware configuration.**
+![1_vuBvrbBYQoIk9OC03X57Zg](https://github.com/user-attachments/assets/87b57c56-9f65-4357-ae2e-dc2cd4e65480)
+![1_YnjDZnvMZ4E3iynTwmA-lQ](https://github.com/user-attachments/assets/e782dbe7-c208-49e1-a67a-485b337977c7)
+![1_h_Il1KuCDEeoLwFnhFTh9g](https://github.com/user-attachments/assets/1022fe66-b2f1-4d64-9662-69c0![1_jYY5EAgRXm7O76v4z2HlQg](https://github.com/user-attachments/assets/34f3e1c4-e8af-4141-8d25-a6be4914a95b)
+a59fca39)
 
-At this point, you’ll see a screen asking if you want to sign in with a Microsoft account. Select Domain join instead.
-Press enter or click to view image in full size
 
-This option allows you to create a local account instead of signing in with a Microsoft account. Feel free to use any name of your choice for the username.
-Press enter or click to view image in full size
+**You can leave the memory at 2GB, and make sure the Network Adapter is set to NAT. Once that’s done, go ahead and power on the machine.**
+![1_h_Il1KuCDEeoLwFnhFTh9g](https://github.com/user-attachments/assets/7cb76c15-52f4-460c-baba-074c19c8025b)
+![1_jYY5EAgRXm7O76v4z2HlQg](https://github.com/user-attachments/assets/de649510-30f6-4eac-928d-41b2ff71ced4)
+![1_zRTf0ePTI_xAzK8HjNdbBQ](https://github.com/user-attachments/assets/9e3000ae-98c2-4a75-87ad-1b9081b8e21d)
 
-Set a password and confirm it. For this lab, I’m using a weak password just to keep things simple.
-Password1
-Press enter or click to view image in full size
 
-For the security questions, feel free to select any options and provide answers of your choice.
-Press enter or click to view image in full size
+**Follow the installation prompts just like you did for Windows Server 2022. This part should be quicker, as it’s mostly a repetition of earlier steps. Let the machine reboot automatically when prompted.**
+![1_4zSfOBeKKdx2GrGkC4yCMQ](https://github.com/user-attachments/assets/5cb3f11d-8852-44d3-b92d-82e3b3ab3399)
+![1_Y7-trzm_if8hj4VfViOQlA](https://github.com/user-attachments/assets/c0dd6603-1179-460a-8e5b-7793f0f1c838)
 
-Next, we’ll disable location services and turn off other optional settings to minimize data sharing.
-Press enter or click to view image in full size
 
-Press enter or click to view image in full size
+**When prompted, go ahead and skip the keyboard layout selection.**
+![1_HTW_4QsijiCvcJIeN4BVyw](https://github.com/user-attachments/assets/e96d7acd-e77d-4552-afbf-2d6beffde654)
 
-Great, now that you’re logged in, go ahead and rename the PC to something meaningful for your lab setup.
-Press enter or click to view image in full size
+**At this point, you’ll see a screen asking if you want to sign in with a Microsoft account. Select Domain join instead.**
+![1_iZDtwntuBGXe1T5wNV3yxA](https://github.com/user-attachments/assets/5b77a2aa-d147-4741-9909-93208f27ef47)
 
-Press enter or click to view image in full size
 
-Go ahead and restart the machine, then repeat the same setup process for the second user machine.
+**This option allows you to create a local account instead of signing in with a Microsoft account. Feel free to use any name of your choice for the username.**
+![1_K5twCkhduwu97EiALm_kPg](https://github.com/user-attachments/assets/35ed8f59-66b4-4178-a955-3e9cc719909b)
 
-Second User Machine
+
+**Set a password and confirm it. For this lab, I’m using a weak password just to keep things simple.
+Password1**
+![1_QWtmUqkmL_C-1wFr7bK0Mg](https://github.com/user-attachments/assets/0c6c67a2-3d9f-40ab-a928-6d076743df1b)
+
+**For the security questions, feel free to select any options and provide answers of your choice.**
+![1_uh-Z0gYMfmwoc5oPTpUwTQ](https://github.com/user-attachments/assets/8a8be2cf-5c76-4952-97fd-cf0513c06e67)
+
+
+
+**Next, we’ll disable location services and turn off other optional settings to minimize data sharing.**
+![1_k7u8h2BroQPrOwF_kMNf0g](https://github.com/user-attachments/assets/c68d13b4-6fd7-4b89-91ae-2e7761532ef8)
+![1_fjVRVYNE8yRMOs8UUHL1QA](https://github.com/user-attachments/assets/7da4d48e-e040-4ee5-9676-d7f9dc337975)
+
+
+**Great, now that you’re logged in, go ahead and rename the PC to something meaningful for your lab setup.**
+![1_4o9x5pjpx73snZAmusjOJA](https://github.com/user-attachments/assets/b528225c-5f85-4338-86ab-0e28a11c6fb8)
+![1_gxwpCS1bshjeeP0LZBs7QQ](https://github.com/user-attachments/assets/84b6b1b5-c120-4d85-b143-2147c6a84d8d)
+
+
+**Go ahead and restart the machine, then repeat the same setup process for the second user machine.**
+![1_hRvvk2-eYJyz3EuapJGHuQ](https://github.com/user-attachments/assets/dcaf9755-c8c0-40e4-ac5f-6ec1e7488920)
+
+# Second User Machine
 
 Machine Name: SPIDERMAN
 username:     peterparker
