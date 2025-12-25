@@ -44,6 +44,7 @@ Ensure you download the 64-bit edition.
 <img width="1400" height="671" alt="Image" src="https://github.com/user-attachments/assets/362c0351-59d2-463e-821a-beebe94b8d51" />
 
 <img width="1400" height="641" alt="Image" src="https://github.com/user-attachments/assets/e841c4e8-92b1-401f-90b3-fde8b87d4b94" />
+
 ---
 
 # Setting up the Domain Controller
@@ -534,22 +535,11 @@ Enter the Administrator credentials when prompted to authenticate the connection
 Now the shared drive has been successfully mapped and is accessible from this machine.
 ![1_iADqw8P3H5Gu4b8YR0Aswg](https://github.com/user-attachments/assets/3ebe626f-c686-40d7-b08a-f6f7982505bb)
 
-Conclusion
-And that’s it! We’ve successfully built an Active Directory home lab from scratch. But this is just the beginning. In the next blog post, we’ll dive into key attack scenarios such as LLMNR Poisoning, SMB Relay, MITM6 attacks, and more as we continue our AD lab walkthrough.
+**Conclusion**
 
-Keep in mind, practice is key. Building your own AD lab is a great way to sharpen your IT skills, get comfortable with AD environments, and gear up for real-world scenarios. Until the next blog post, keep learning, testing, and pushing your boundaries in the dynamic world of Active Directory.
+**This project demonstrates how to build and manage an Active Directory home lab from scratch. Through this setup, I gained hands-on experience with domain controllers, user and group management, Group Policy configuration, and joining client machines to a domain.**
 
-Thanks for reading and Happy Hacking!
-
-Active Directory
-Domain Controller
-Lab Setup
-Homelab
-6
-
-
-1
-
+**Building this lab helped strengthen practical IT Help Desk skills and improved my understanding of real-world Active Directory environments. Continuous practice with labs like this is essential for supporting users and maintaining reliable Windows-based networks.**
 
 
 
